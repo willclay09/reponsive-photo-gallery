@@ -1,0 +1,11 @@
+body{
+    background-color: cornflowerblue;
+}
+#header{
+    width: 100%;
+    border: solid 1px black;
+}
+h1{
+    text-align: center;
+    color: red;
+}

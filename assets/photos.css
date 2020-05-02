@@ -1,3 +1,6 @@
+*{
+    box-sizing: border-box;
+}
 body{
     background-color: cornflowerblue;
 }
@@ -8,4 +11,18 @@ body{
 h1{
     text-align: center;
     color: red;
+}
+.tablet{
+    width: 236px;
+}
+.masonry{
+    column-count: 2;
+    column-gap: 20em;
+    display: inline-block;
+    width: 100%;
+    max-width: 263px;
+    margin: 1.5em auto;   
+}
+p{
+    text-align: center;
 }

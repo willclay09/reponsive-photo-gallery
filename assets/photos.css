@@ -22,6 +22,7 @@ h1{
     margin-right: auto;
     height: auto;
     object-fit: contain;
+    max-width: 1000px;
 }
 p{
     text-align: center;
@@ -40,51 +41,63 @@ p{
 }
 .tablet9{
     position: relative;
-    top: 100px;
-    right: 0px;
+    top: -3450px;
+    right: 300px;
 }
 .tablet1{
-    width: 800px;
+    
     position: relative;
-    left: 650px;
+    left: 575px;
 }
 .tablet2{
-    width: 800px;
+    
     position: relative;
-    top: -500px;
-}
-.tablet3{
-    width: 800px;
-}
-.tablet4{
-    width: 800px;
-}
-.tablet5{
-    width: 800px;
-}
-.tablet6{
-    width: 800px;
-}
-.tablet7{
-    width: 800px;
+    top: -650px;
+    right: 350px;
 }
 .tablet8{
-    width: 800px;
+   
     position: relative;
-   top: -100px;
+   top: -700px;
+   right: 300px;
 }
 .tablet10{
-    width: 800px;
-    height: 1000px;
     position: relative;
-    top: 0px;
-    left: 0px;
+    top: -1400px;
+    right: 300px;
 }
 .tablet11{
-    width: 800px;
     position: relative;
+    top: -6800px;
+    left: 800px;
 }
 .tablet12{
-    width: 800px;
+   position: relative;
+   top: -6600px;
+   left: 700px;
+}
+.tablet3{
     position: relative;
+    top: -550px;
+    right: 325px;
+}
+.tablet4{
+    position: relative;
+    top: -450px;
+    right: 325px;
+}
+.tablet5{
+    position: relative;
+    top: -400px;
+    left: 550px;
+}
+.tablet7{
+    position: relative;
+    top: -4700px;
+    left: 650px;
+}
+.tablet6{
+    position: relative;
+    right: 300px;
+    top: -150px;
 }
